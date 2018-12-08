@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("program to fork the project");
+            Console.WriteLine("change to push it");
+
         }
     }
 }
